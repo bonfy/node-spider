@@ -1,0 +1,27 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "node spider step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonfy/node-spider.git"
+  },
+  "keywords": [
+    "node",
+    "spider"
+  ],
+  "author": "bonfy <foreverbonfy@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bonfy/node-spider/issues"
+  },
+  "homepage": "https://github.com/bonfy/node-spider#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.67.0"
+  }
+}
