@@ -10,10 +10,10 @@ $ npm install cheerio --save
 ## Usage:
 Download this repo
 ```cmd
-git clone https://github.com/bonfy/node-spider.git
-cd node-spider
-npm install
-node v1
+$ git clone https://github.com/bonfy/node-spider.git
+$ cd node-spider
+$ npm install
+$ node v1
 ```
 
 
