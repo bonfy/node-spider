@@ -14,7 +14,7 @@ request({
   if (!error && response.statusCode == 200) {
     analyse(body); // Show the HTML for the Google homepage.
   }else{
-    console.log(err);
+    console.log(error);
   }
 })
 
